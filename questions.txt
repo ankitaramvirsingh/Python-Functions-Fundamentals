@@ -1,0 +1,32 @@
+What to build
+Objective
+Learn reusable programming using custom functions, arguments, parameters, return values, scope, and default arguments.
+Questions
+Create
+def add(a, b)
+that returns the addition of two numbers.
+Create functions for
+addition
+subtraction
+multiplication
+division
+Create a function that determines whether a number is even or odd.
+Create a function that returns the largest of three numbers without using max().
+Create a function that calculates factorial.
+Create a function that checks whether a number is prime.
+Create
+def calculate_discount(price, discount=10)
+where the default discount is 10%.
+Create a function that accepts a list and returns its sum without using sum().
+Create a function that accepts a string and returns the number of vowels.
+Create a function that accepts a string and determines whether it is a palindrome.
+Create a function that accepts
+name
+age
+course
+and returns a formatted student profile.
+Use both positional and keyword arguments while calling it.
+Demonstrate the difference between
+a function that uses print()
+a function that uses return
+Explain through code why return is useful.
